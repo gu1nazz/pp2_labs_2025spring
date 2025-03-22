@@ -1,7 +1,7 @@
 import string
 import os
 
-output_folder = r"/Users/kassymgulnaz/pp2/labs/lab6/directories_and_files"
+output_folder = r"/Users/kassymgulnaz/Desktop/pp2/labs/lab6/directories_and_files"
 os.makedirs(output_folder, exist_ok=True)
 
 def generate_files():
